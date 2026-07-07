@@ -1,0 +1,12 @@
+{
+  "id": "chimera",
+  "title": "Chimera",
+  "bpm": 120,
+  "tracks": [
+    { "key": "drums", "name": "Main Drums", "file": "Chimera - 0001 - Instrument - Main Drums.mp3" },
+    { "key": "prompt", "name": "Prompt Speech", "file": "Chimera - 0002 - Audio - Prompt speech.mp3" },
+    { "key": "chords", "name": "Chord Sound", "file": "Chimera - 0003 - Instrument - Chord sound.mp3" },
+    { "key": "vocals", "name": "Vocal Guide", "file": "Chimera - 0004 - Audio - Vocal guide.mp3" },
+    { "key": "click", "name": "Click Track", "file": "Chimera - 0005 - Instrument - Click Track.mp3" }
+  ]
+}

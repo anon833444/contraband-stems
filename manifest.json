@@ -1,0 +1,41 @@
+{
+  "version": "2026-07-07",
+  "band": "Contra Band",
+  "songs": [
+    {
+      "id": "chimera",
+      "title": "Chimera",
+      "folder": "chimera"
+    },
+    {
+      "id": "cant",
+      "title": "Can't Say It On TV",
+      "folder": "cant"
+    },
+    {
+      "id": "dead",
+      "title": "Dead in the Morning",
+      "folder": "dead"
+    },
+    {
+      "id": "the-best",
+      "title": "The Best",
+      "folder": "best"
+    },
+    {
+      "id": "heart",
+      "title": "Heart is All You Have",
+      "folder": "heart"
+    },
+    {
+      "id": "misery",
+      "title": "Heart is All You Have",
+      "folder": "misery"
+    },
+    {
+      "id": "wow",
+      "title": "Wow!",
+      "folder": "wow"
+    }
+  ]
+}

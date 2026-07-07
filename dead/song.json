@@ -1,0 +1,11 @@
+{
+  "id": "dead",
+  "title": "Dead in the Morning",
+  "bpm": 95,
+  "tracks": [
+    { "key": "drums", "name": "Drums", "file": "drums.mp3" },
+    { "key": "bass", "name": "Bass", "file": "bass.mp3" },
+    { "key": "guitar", "name": "Guitar", "file": "guitar.mp3" },
+    { "key": "vocals", "name": "Vocals", "file": "vocals.mp3" }
+  ]
+}
